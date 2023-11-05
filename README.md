@@ -4,6 +4,9 @@ Sebuah perusahaan _e-commerce_ memerlukan bantuan dari seorang Data Analyst untu
 # Objektif Analisa
 Ada 4 obejktif dalam analisa data ini, yaitu:
 1. Mengetahui 10 produk yang paling banyak dibeli
-2. Mengetahui 10 produk yang paling banyak menghasilkan penjualan
+2. Mengetahui 10 produk yang paling banyak menghasilkan total penjualan
 3. Mengetahui 10 produk yang paling banyak mendapatkan review positif
 4. Mengetahui pertumbuhan pemesanan produk dari 10 produk yang paling diminati
+
+# Hasil Analisa Objektif
+Dapat dilihat pada platform Medium []
