@@ -9,4 +9,4 @@ Ada 4 obejktif dalam analisa data ini, yaitu:
 4. Mengetahui pertumbuhan pemesanan produk dari 10 produk yang paling diminati
 
 # Hasil Analisa Objektif
-Dapat dilihat pada platform Medium []
+Dapat dilihat pada platform Medium [ https://medium.com/@putrax33/pacmann-sql-project-e-commerce-analysist-46eb65b7f2d4 ]
